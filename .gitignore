@@ -1,1 +1,50 @@
-.gitignore
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# Ignore auto-generated files by Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Ignore crash reports and log files
+*.pidb
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Ignore all scriptable object files
+[Aa]ssets/**/*.asset
+[Aa]ssets/**/*.meta
+
+# Ignore all prefab files
+[Aa]ssets/**/*.prefab
+
+# Ignore all scene files
+[Aa]ssets/**/*.unity
+
+# Ignore all package files
+[Pp]ackages/
+
+# Ignore JetBrains Rider
+.idea/
+*.sln.iml
+
+# Ignore Visual Studio Code
+.vscode/
+
+# Ignore other generated files
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Tt]emp/
