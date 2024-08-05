@@ -10,14 +10,14 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Background
   - Water
   - UI
   - Player
   - Apple
   - Trash
-  - 
-  - 
+  - NPC
+  - Interactive Objects
   - 
   - 
   - 

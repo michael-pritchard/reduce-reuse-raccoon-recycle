@@ -22,7 +22,7 @@ public class main : MonoBehaviour
     private int streakCount = 0;
     private int multiplier = 1;
     private float levelTime = 30f; // Level duration in seconds
-    private int scoreThreshold = 10; // Score threshold for level completion
+    private int scoreThreshold = 20; // Score threshold for level completion
 
     [SerializeField] private AudioClip audioFX_successFanfare;
 
@@ -204,6 +204,12 @@ void EndLevel()
 
     public void NewGame()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+    public void ExitGame()
+    {
+        Application.Quit();
+        Debug.Log("Game is exiting.");
     }
 }

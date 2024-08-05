@@ -3,44 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\unity\\my project (4)2d\\assets\\scripts\\backgroundmusicmanager_title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundmusicmanager_title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\glowshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\glowshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\overworld\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\overworld\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\spritegloweffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spritegloweffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\level1-1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1-1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\level1-1\\groundtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1-1\\groundtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\soundfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\level1-1\\trash_plasticbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1-1\\trash_plasticbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\trash_plasticbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trash_plasticbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\level1-1\\food_apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1-1\\food_apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\unity\\my project (4)2d\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\level1-1\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1-1\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\level1-1\\soundfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1-1\\soundfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\groundtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\level1-1\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1-1\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\food_apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\food_apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\overworld\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\overworld\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\overworld\\recyclingbininteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\overworld\\recyclingbininteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\overworld\\playermovement_overworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\overworld\\playermovement_overworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\typewriterui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\typewriterui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\henegames\\dialogue system\\scripts\\dialoguecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\henegames\\dialogue system\\scripts\\dialoguecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\buttonstartpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonstartpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\overworld\\npcinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\overworld\\npcinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\assets\\scripts\\overworld\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5C4BA5-A930-FDC4-442D-0B7E9C277212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\overworld\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,134 +82,224 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAIBJwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T01:06:04.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T22:34:22.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SpriteGlowEffect.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\SpriteGlowEffect.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SpriteGlowEffect.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\SpriteGlowEffect.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SpriteGlowEffect.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T01:19:03.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GlowShader.shader",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\GlowShader.shader",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GlowShader.shader",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\GlowShader.shader",
-              "RelativeToolTip": "Assets\\Scripts\\GlowShader.shader",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2024-08-04T01:02:02.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\main.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\main.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\main.cs",
-              "RelativeToolTip": "Assets\\Scripts\\main.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAgwEUAAAAAAAAA",
+              "Title": "BackgroundMusicManager_Title.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\BackgroundMusicManager_Title.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundMusicManager_Title.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\BackgroundMusicManager_Title.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundMusicManager_Title.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwC0AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:22:16.257Z",
+              "WhenOpened": "2024-08-05T04:48:39.043Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "groundTrigger.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\groundTrigger.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\groundTrigger.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\groundTrigger.cs",
-              "RelativeToolTip": "Assets\\Scripts\\groundTrigger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:53:50.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SoundFXManager.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\SoundFXManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundFXManager.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\SoundFXManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SoundFXManager.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAgwDUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T19:59:54.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "trash_plasticBottle.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\trash_plasticBottle.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\trash_plasticBottle.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\trash_plasticBottle.cs",
-              "RelativeToolTip": "Assets\\Scripts\\trash_plasticBottle.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAewDgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T23:25:12.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "food_apple.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\food_apple.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\food_apple.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\food_apple.cs",
-              "RelativeToolTip": "Assets\\Scripts\\food_apple.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAA1wDkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T23:39:06.355Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "generator.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\generator.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\generator.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\generator.cs",
-              "RelativeToolTip": "Assets\\Scripts\\generator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAQAAAATAAAA",
+              "Title": "groundTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\groundTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1-1\\groundTrigger.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\groundTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level1-1\\groundTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T23:42:13.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T04:09:13.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "trash_plasticBottle.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\trash_plasticBottle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1-1\\trash_plasticBottle.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\trash_plasticBottle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level1-1\\trash_plasticBottle.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:08:51.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "food_apple.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\food_apple.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1-1\\food_apple.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\food_apple.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level1-1\\food_apple.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwDkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:08:34.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1-1\\GameManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level1-1\\GameManager.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAkwI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:08:25.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SoundFXManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\SoundFXManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1-1\\SoundFXManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\SoundFXManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level1-1\\SoundFXManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:08:11.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1-1\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level1-1\\PlayerMovement.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:07:59.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ButtonStartPress.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\ButtonStartPress.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonStartPress.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\ButtonStartPress.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonStartPress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:15:45.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "typewriterUI.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\typewriterUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\typewriterUI.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\typewriterUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\typewriterUI.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAkwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:24:37.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StartGame.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\StartGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartGame.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\StartGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:15:08.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DialogueCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\HeneGames\\Dialogue System\\Scripts\\DialogueCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\HeneGames\\Dialogue System\\Scripts\\DialogueCharacter.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\HeneGames\\Dialogue System\\Scripts\\DialogueCharacter.cs",
+              "RelativeToolTip": "Assets\\HeneGames\\Dialogue System\\Scripts\\DialogueCharacter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:07:31.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Overworld\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Overworld\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Overworld\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Overworld\\LevelManager.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowC4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:50:18.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Overworld\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Overworld\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Overworld\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Overworld\\DialogueManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:47:02.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Overworld\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Overworld\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Overworld\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Overworld\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:59:41.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecyclingBinInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Overworld\\RecyclingBinInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Overworld\\RecyclingBinInteraction.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Overworld\\RecyclingBinInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Overworld\\RecyclingBinInteraction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:54:12.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NPCInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Overworld\\NPCInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Overworld\\NPCInteraction.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Overworld\\NPCInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Overworld\\NPCInteraction.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:49:39.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerMovement_Overworld.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Overworld\\PlayerMovement_Overworld.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Overworld\\PlayerMovement_Overworld.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Overworld\\PlayerMovement_Overworld.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Overworld\\PlayerMovement_Overworld.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwDAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:25:47.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1-1\\main.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Unity\\My project (4)2d\\Assets\\Scripts\\Level1-1\\main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level1-1\\main.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:38:06.026Z"
             }
           ]
         }
